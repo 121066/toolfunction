@@ -1,0 +1,30 @@
+{
+  "name": "toolfunction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "keywords": [
+    "js",
+    "vue",
+    "tool",
+    "javascript",
+    "check",
+    "util",
+    "react",
+    "checkFunction"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/121066/file-upload"
+  }
+}
